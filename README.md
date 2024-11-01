@@ -53,5 +53,5 @@ I'm always open to discussing new projects, ideas, or just connecting with fello
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Happy coding! 🎉
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Your-UserName&layout=compact&theme=shadow-red)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
