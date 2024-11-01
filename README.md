@@ -36,9 +36,6 @@ I actively participate in CTF competitions, where I enjoy solving challenges rel
 - Reverse Engineering
 - Pwn
 
-Feel free to check out my CTF write-ups and solutions in the [writups](https://github.com/FlagMotori/writeups) on this repository!
-
-
 ## 📫 Get in Touch
 
 I'm always open to discussing new projects, ideas, or just connecting with fellow developers. You can reach me at:
