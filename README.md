@@ -1,7 +1,3 @@
-//<div id="header" align="center">
- // <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47yo8s6bsij1ticboi4oiy73bhuu7v8z3bv93p2vko&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
-//</div>
-
 
 # 👋 Hello, I'm Amir Jafari!
 
@@ -22,9 +18,9 @@ Welcome to my GitHub profile! I'm a passionate programmer with a keen interest i
 Here are some of the technologies and tools I work with:
 
 <p>
-  <img src="link-to-python-logo" alt="Python" width="50" height="50"/>
-  <img src="link-to-javascript-logo" alt="JavaScript" width="50" height="50"/>
-  <img src="link-to-typescript-logo" alt="TypeScript" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="" alt="TypeScript" width="50" height="50"/>
   <img src="link-to-nodejs-logo" alt="Node.js" width="50" height="50"/>
   <img src="link-to-nestjs-logo" alt="NestJS" width="50" height="50"/>
   <img src="link-to-assembly-logo" alt="Assembly" width="50" height="50"/>
