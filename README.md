@@ -20,12 +20,17 @@ Here are some of the technologies and tools I work with:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="" alt="TypeScript" width="50" height="50"/>
-  <img src="link-to-nodejs-logo" alt="Node.js" width="50" height="50"/>
-  <img src="link-to-nestjs-logo" alt="NestJS" width="50" height="50"/>
-  <img src="link-to-assembly-logo" alt="Assembly" width="50" height="50"/>
-  <img src="link-to-bash-logo" alt="Bash" width="50" height="50"/>
-  <img src="link-to-owasp-logo" alt="OWASP" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
+  
 </p>
 
 ## 🎮 CTF & Hacking
