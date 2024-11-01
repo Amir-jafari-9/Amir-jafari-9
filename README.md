@@ -51,8 +51,5 @@ I'm always open to discussing new projects, ideas, or just connecting with fello
 - [https://ir.linkedin.com/in/amir-jafari-8b1518246]
 
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Happy coding! 🎉
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-jafari-9&show_icons=true&bg_color=00000000)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amir-jafari-9)](https://github.com/Amir-jafari-9/README.md)
 
