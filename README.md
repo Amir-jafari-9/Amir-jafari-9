@@ -31,6 +31,10 @@ Here are some of the technologies and tools I work with:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="nginx" width="50" height="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+          
+        
   
 </p>
 
