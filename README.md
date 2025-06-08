@@ -33,6 +33,13 @@ Here are some of the technologies and tools I work with:
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="nginx" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="nginx" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"alt="nginx" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"alt="nginx" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="nginx" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="nginx" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg"alt="nginx" width="50" height="50" />
+          
+          
+          
           
         
   
