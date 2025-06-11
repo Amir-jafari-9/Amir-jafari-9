@@ -48,16 +48,9 @@ Here are some of the technologies and tools I work with:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" alt="nginx" width="50" height="50" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"  alt="nginx" width="50" height="50"/>
           
+
           
-                 
-          
-          
-          
-          
-          
-          
-        
-  
+            
 </p>
 
 ## 🎮 CTF & Hacking
