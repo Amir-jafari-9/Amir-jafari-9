@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Amir Jafari!
+## 👋 Hello, I'm Amir Jafari!
 
 Welcome to my GitHub profile! I'm a passionate programmer with a keen interest in **security** and **networking**. I love tackling challenges and solving problems, especially through **Capture The Flag (CTF)** competitions. When I'm not coding, you can find me honing my skills in web application development, where I create feature-rich applications that are both functional and user-friendly.
 
